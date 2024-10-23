@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.930ba400.css",
+    "main.js": "/static/js/main.a9f9beab.js",
+    "static/js/602.8e6a8923.chunk.js": "/static/js/602.8e6a8923.chunk.js",
+    "static/js/845.7b0e1b98.chunk.js": "/static/js/845.7b0e1b98.chunk.js",
+    "static/media/nxtwatch.png": "/static/media/nxtwatch.30c7009332519520bc43.png",
+    "static/media/Teaching_Assistent.png": "/static/media/Teaching_Assistent.24125880cdccb71fa501.png",
+    "static/media/nxttrendz.png": "/static/media/nxttrendz.b77c27b6a887c6c0599a.png",
+    "static/media/pc.png": "/static/media/pc.06ad21ea51446dc1062f.png",
+    "static/media/Vs.png": "/static/media/Vs.19edc3fbac1c451f289d.png",
+    "static/media/pg.png": "/static/media/pg.9f8f5cd98ce5726b002f.png",
+    "static/media/SRIKANTH_BOBBEPALLI.pdf": "/static/media/SRIKANTH_BOBBEPALLI.c2696a572351bdeb9cec.pdf",
+    "static/media/github.png": "/static/media/github.345dc4a21070f9083ca7.png",
+    "static/media/pre.svg": "/static/media/pre.e4c81c26304bc309eb55.svg",
+    "static/media/h3.jpg": "/static/media/h3.dc52d5d40a40b13154b0.jpg",
+    "static/media/question_bot.jpg": "/static/media/question_bot.35cadd8cd8884df8bdfb.jpg",
+    "static/media/chorme.svg": "/static/media/chorme.b0bd08e3d4226484ce842d3453b979e9.svg",
+    "index.html": "/index.html",
+    "main.930ba400.css.map": "/static/css/main.930ba400.css.map",
+    "main.a9f9beab.js.map": "/static/js/main.a9f9beab.js.map",
+    "602.8e6a8923.chunk.js.map": "/static/js/602.8e6a8923.chunk.js.map",
+    "845.7b0e1b98.chunk.js.map": "/static/js/845.7b0e1b98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.930ba400.css",
+    "static/js/main.a9f9beab.js"
+  ]
+}
