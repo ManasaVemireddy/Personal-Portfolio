@@ -12,7 +12,7 @@ import Zoom from "react-reveal/Zoom";
 pdfjs.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.7.76/pdf.min.mjs';
 
 const resumeLink =
-  "https://raw.githubusercontent.com/MD-MAFUJUL-HASAN/Personal-Portfolio/main/src/assets/SRIKANTH_BOBBEPALLI.pdf";
+  "https://raw.githubusercontent.com/ManasaVemireddy/Personal-Portfolio/src/assets/SRIKANTH_BOBBEPALLI.pdf";
 
 function Resume() {
   const [width, setWidth] = useState(1200);
